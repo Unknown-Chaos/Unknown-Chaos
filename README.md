@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Unknown-Chaos
-- 👀 I’m interested in Good omens and cats.
+- 👀 I’m interested in Good Omens and cats.
 - 🌱 I’m currently learning Lua, Python, Java.
 - 💞️ I’m looking to collaborate on Nothing at the momment.
 - 📫 How to reach me discord: cyrus_sands.
